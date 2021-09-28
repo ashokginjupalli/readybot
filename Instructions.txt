@@ -8,13 +8,11 @@ Token xoxb from classic slack app only works on rtm api designs
 
 https://api.slack.com/apps/A02FVRD6GP4/oauth?success=1
 
-Bot User Auth token (
-xoxb-2517018979988-2563498055056-m9NE6wKrWbHEUdcXC41OmYME
+Bot User Auth token 
+
 Auth token changes all the time so get new one from slack and export it
 
 export SLACK_BOT_TOKEN='your bot user access token here'
-
-export SLACK_BOT_TOKEN='xoxb-2517018979988-2563498055056-m9NE6wKrWbHEUdcXC41OmYME'
 
 
 pip install slackclient==1.3.2
