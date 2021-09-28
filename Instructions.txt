@@ -1,5 +1,5 @@
 Source: https://www.fullstackpython.com/blog/build-first-slack-bot-python.html
-
+Mine: https://github.com/ashokginjupalli/readybot.git
 https://api.slack.com/rtm#create_a_classic_slack_app
 
 RTM Supports classic slack app
